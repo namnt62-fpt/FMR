@@ -1,0 +1,6 @@
+flet
+flet-cli
+flet-desktop
+pyinstaller
+requests
+python-dotenv
